@@ -1,0 +1,5 @@
+# Only the app itself is published. Notes like RECAP.md stay private on this Mac.
+*
+!index.html
+!.gitignore
+!.nojekyll
